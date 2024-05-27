@@ -4,16 +4,15 @@ Online Doctor Appointment Booking System
 This project implements a user-friendly web application for scheduling medical appointments online. It simplifies the process for patients to connect with healthcare providers, alleviating the hassle of traditional appointment booking. I am particularly responsible for creating user interface designing to create attractive website and and also foir cding part(Django)
 
 Key Features:
+- Patient Registration and Login: Allows patients to create accounts and manage their profiles.
+- Doctor Listing and Search: Enables patients to find doctors based on their specialty, location, insurance network, and availability.
+- Appointment Booking and Management: Patients can conveniently schedule appointments with chosen doctors, review upcoming appointments, and reschedule or cancel if needed.
+- Doctor Availability Management: Doctors manage their time slots for appointments, ensuring proper scheduling flow. (Optional: Integration with calendar services for seamless management.)
 
--Patient Registration and Login: Allows patients to create accounts and manage their profiles.
--Doctor Listing and Search: Enables patients to find doctors based on their specialty, location, insurance network, and availability.
--Appointment Booking and Management: Patients can conveniently schedule appointments with chosen doctors, review upcoming appointments, and reschedule or cancel if needed.
--Doctor Availability Management: Doctors manage their time slots for appointments, ensuring proper scheduling flow. (Optional: Integration with calendar services for seamless management.)
 Technologies Used:
-
-Frontend: HTML, CSS, Bootstrap, JavaScript 
-Backend: Python, Django (Consider using Django REST Framework for a RESTful API if you plan for mobile app integration in the future)
-Database: SQLite3 (For smaller projects. Consider scalable options like PostgreSQL or MySQL for larger user bases)
+- Frontend: HTML, CSS, Bootstrap, JavaScript 
+- Backend: Python, Django (Consider using Django REST Framework for a RESTful API if you plan for mobile app integration in the future)
+- Database: SQLite3 (For smaller projects. Consider scalable options like PostgreSQL or MySQL for larger user bases)
 
 Development Setup:
 
