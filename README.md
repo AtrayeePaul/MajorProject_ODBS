@@ -15,7 +15,7 @@ Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: Python, Django (Consider using Django REST Framework for a RESTful API if you plan for mobile app integration in the future)
 Database: SQLite3 (For smaller projects. Consider scalable options like PostgreSQL or MySQL for larger user bases)
 
-Development Setup (Optional):
+Development Setup:
 
 - Create a virtual environment to isolate project dependencies (recommended).
 - Use a code editor or IDE of your choice (e.g., Visual Studio Code, PyCharm) for development.
